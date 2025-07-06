@@ -15,3 +15,5 @@ Hi there 👋
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+![snake gif](https://github.com/arrvy/arrvy/blob/output/github-snake-dark.svg)
