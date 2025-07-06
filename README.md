@@ -1,5 +1,6 @@
 # 💫 About Me:
 Hi there 👋
+![Header](./github-header-image.png)
 
 
 ## 🌐 Socials:
